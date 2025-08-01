@@ -1,4 +1,4 @@
-# IP Address Lookup Tool
+# IP Hub - IP Address Lookup Tool
 
 A modern, responsive web application built with Next.js that displays your public IP address along with location information.
 
@@ -30,8 +30,8 @@ A modern, responsive web application built with Next.js that displays your publi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd ip-lookup-tool
+git clone https://github.com/aamanbhagat/iphub.git
+cd iphub
 ```
 
 2. Install dependencies:
